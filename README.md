@@ -9,7 +9,7 @@
 ## Installation:
 
 ```sh
-npm i express mongoose ejs
+npm i express mongoose ejs marked slugify method-override dompurify jsdom
 ```
 
 <!-- HOW TO RUN -->
